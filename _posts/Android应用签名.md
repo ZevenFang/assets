@@ -1,6 +1,7 @@
 ---
 title: Android应用签名
 date: 2016-12-21 10:07:40
+description: "三步走：生成密钥，签名apk，优化APK"
 tags: Android
 ---
 
