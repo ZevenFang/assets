@@ -11,7 +11,7 @@ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.gi
 ```
 ### 2. 对upstream的代码更新
 ```shell
-git fetach upstream
+git fetch upstream
 ```
 ### 3. 进行代码合并
 ```shell
