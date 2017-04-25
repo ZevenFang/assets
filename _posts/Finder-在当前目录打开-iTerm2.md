@@ -1,6 +1,7 @@
 ---
 title: Finder 在当前目录打开 iTerm2
 date: 2017-04-25 17:07:08
+description: "使用 Automator 编写脚本即可实现使用快捷键在当前目录开启终端："
 categories: 
 - Mac
 ---
